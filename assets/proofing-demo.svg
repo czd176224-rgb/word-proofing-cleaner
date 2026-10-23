@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Word Proofing Cleaner — 相同文字，更清爽的文档</title>
+  <desc id="desc">左侧示意带红蓝波浪线的中英文报告，右侧示意清理后的相同文字。仅为插图。</desc>
+  <rect width="1200" height="500" rx="24" fill="#F3F6FA"/>
+  <g font-family="Segoe UI,Microsoft YaHei,PingFang SC,Arial,sans-serif">
+    <text x="56" y="59" font-size="15" font-weight="700" fill="#38605B" letter-spacing="2">WORD PROOFING CLEANER</text>
+    <text x="56" y="106" font-size="32" font-weight="700" fill="#132A3B">相同文字，更清爽的文档。</text>
+    <rect x="56" y="143" width="506" height="269" rx="15" fill="#FFF" stroke="#DBE2E9"/>
+    <rect x="638" y="143" width="506" height="269" rx="15" fill="#FFF" stroke="#A9D2C7"/>
+    <rect x="80" y="163" width="76" height="28" rx="14" fill="#FFF0ED"/>
+    <text x="98" y="183" font-size="14" font-weight="600" fill="#AE5049">清理前</text>
+    <rect x="662" y="163" width="76" height="28" rx="14" fill="#E9F5EF"/>
+    <text x="680" y="183" font-size="14" font-weight="600" fill="#18775D">清理后</text>
+    <g fill="#233B4A" font-size="21">
+      <text x="86" y="238">项目会议纪要 / Project Notes</text>
+      <text x="86" y="284">核对公司名称、专业术语和英文缩写。</text>
+      <text x="86" y="330">保留文字、表格、批注与修订。</text>
+      <text x="668" y="238">项目会议纪要 / Project Notes</text>
+      <text x="668" y="284">核对公司名称、专业术语和英文缩写。</text>
+      <text x="668" y="330">保留文字、表格、批注与修订。</text>
+    </g>
+    <g fill="none" stroke-width="2">
+      <path d="M290 244 q4 -5 8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0" stroke="#D56A69"/>
+      <path d="M126 291 q4 -5 8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0" stroke="#D56A69"/>
+      <path d="M251 291 q4 -5 8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0" stroke="#578DD6"/>
+      <path d="M336 291 q4 -5 8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0" stroke="#D56A69"/>
+      <path d="M169 337 q4 -5 8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0 t8 0" stroke="#578DD6"/>
+    </g>
+    <circle cx="600" cy="278" r="24" fill="#18775D"/>
+    <path d="M590 278 h19 m-7 -7 7 7 -7 7" fill="none" stroke="#FFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="86" y="382" font-size="14" fill="#81909C">校对标记干扰阅读</text>
+    <text x="668" y="382" font-size="14" fill="#18775D">本地处理 · 另存副本 · 文字比对</text>
+    <text x="56" y="456" font-size="15" fill="#617581">适用于已核对的 .docx 文档。清理校对标记，不改写正文。效果示意。</text>
+  </g>
+</svg>

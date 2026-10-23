@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Proofing Cleaner"
+  short_description: "Remove Word red/blue proofing underlines without changing text."
+  default_prompt: "Use $word-proofing-cleaner to remove red and blue proofing underlines from this DOCX without changing the content."
